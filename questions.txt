@@ -1,0 +1,135 @@
+easy|Which keyword is used to define a function?|def
+easy|Which function is used to print output?|print
+easy|Which function is used to take input?|input
+easy|Which symbol is used for comments?|#
+easy|Which datatype stores integer?|int
+easy|Which datatype stores text?|str
+easy|Which keyword is used for condition?|if
+easy|Which keyword is used for loop?|for
+easy|Which keyword is used to import modules?|import
+easy|Which boolean value represents true?|True
+easy|Which boolean value represents false?|False
+easy|Which operator is used for addition?|+
+easy|Which operator is used for subtraction?|-
+easy|Which operator is used for multiplication?|*
+easy|Which operator is used for division?|/
+easy|Which operator is used for modulus?|%
+easy|Which keyword exits loop?|break
+easy|Which keyword skips iteration?|continue
+easy|Which datatype stores list?|list
+easy|Which datatype stores key-value?|dict
+easy|Which datatype stores unique values?|set
+easy|Which datatype is immutable?|tuple
+easy|Which keyword is else?|else
+easy|Which keyword is elif?|elif
+easy|Which operator checks equality?|==
+easy|Which operator is not equal?|!=
+easy|Which operator is greater than?|>
+easy|Which operator is less than?|<
+easy|Which keyword defines class?|class
+easy|Which keyword handles exception?|try
+easy|Which keyword catches exception?|except
+easy|Which keyword ensures execution?|finally
+easy|Which function returns length?|len
+easy|Which function converts to int?|int
+easy|Which function converts to string?|str
+easy|Which function opens file?|open
+easy|Which mode reads file?|r
+easy|Which mode writes file?|w
+easy|Which operator is power?|**
+easy|Which operator is floor division?|//
+easy|Which loop runs until condition false?|while
+easy|Which module generates random numbers?|random
+easy|Which module works with time?|time
+easy|Which datatype stores decimal?|float
+easy|Which keyword defines lambda?|lambda
+easy|Which keyword is return?|return
+easy|Which keyword is pass?|pass
+easy|Which keyword deletes variable?|del
+easy|Which function checks type?|type
+easy|Which function gives max value?|max
+easy|Which function gives min value?|min
+easy|Which function sums values?|sum
+easy|Which method adds item in list?|append
+easy|Which method removes item from list?|remove
+easy|Which method sorts list?|sort
+easy|Which method clears list?|clear
+easy|Which method copies list?|copy
+easy|Which method inserts element?|insert
+easy|Which method pops element?|pop
+easy|Which keyword is global?|global
+easy|Which keyword is local?|local
+easy|Which keyword defines generator?|yield
+easy|Which keyword raises error?|raise
+easy|Which keyword is assert?|assert
+easy|Which keyword is None?|None
+easy|Which keyword is not?|not
+easy|Which keyword is and?|and
+easy|Which keyword is or?|or
+easy|Which keyword is in?|in
+easy|Which keyword is is?|is
+easy|Which datatype is boolean?|bool
+easy|Which function converts float?|float
+easy|Which function converts list?|list
+easy|Which function converts dict?|dict
+easy|Which function converts set?|set
+easy|Which function converts tuple?|tuple
+easy|Which function rounds number?|round
+easy|Which function gets input?|input
+easy|Which function prints?|print
+easy|Which keyword defines loop?|for
+easy|Which keyword defines loop?|while
+easy|Which keyword defines function?|def
+easy|Which keyword defines condition?|if
+easy|Which keyword defines else?|else
+easy|Which keyword defines elif?|elif
+easy|Which keyword ends loop?|break
+easy|Which keyword skips loop?|continue
+easy|Which operator is assignment?|=
+easy|Which function is built-in?|print
+easy|Which datatype is numeric?|int
+easy|Which datatype is text?|str
+easy|Which datatype is list?|list
+easy|Which datatype is dict?|dict
+easy|Which datatype is set?|set
+easy|Which datatype is tuple?|tuple
+medium|What is output of 2**3?|8
+medium|What is 10//3?|3
+medium|What is 10%3?|1
+medium|Which structure is ordered?|list
+medium|Which structure is unordered?|set
+medium|Which structure stores key-value?|dict
+medium|Which keyword defines class?|class
+medium|Which keyword handles error?|try
+medium|Which keyword catches error?|except
+medium|Which keyword ensures execution?|finally
+medium|Which function reads file?|read
+medium|Which function writes file?|write
+medium|Which method adds element?|append
+medium|Which method removes element?|remove
+medium|Which function returns length?|len
+medium|Which operator checks equality?|==
+medium|Which operator is not equal?|!=
+medium|Which operator is greater?|>
+medium|Which operator is less?|<
+medium|Which keyword defines lambda?|lambda
+hard|Time complexity of list access?|O(1)
+hard|Time complexity of search in list?|O(n)
+hard|Time complexity of dict lookup?|O(1)
+hard|Which structure uses hashing?|dict
+hard|Which structure is immutable?|tuple
+hard|Which keyword defines generator?|yield
+hard|Which keyword handles exception?|try
+hard|Which keyword catches exception?|except
+hard|Which keyword ensures execution?|finally
+hard|Which keyword defines decorator?|@
+hard|Which module handles OS?|os
+hard|Which module handles system?|sys
+hard|Which module handles math?|math
+hard|Which module handles date?|datetime
+hard|Which keyword defines async?|async
+hard|Which keyword defines await?|await
+hard|Which operator checks identity?|is
+hard|Which operator checks membership?|in
+hard|Which keyword defines class?|class
+hard|Which function converts JSON?|json.loads
